@@ -29,6 +29,8 @@
   <summary>
       <i>English Version</i>
   </summary>
+
+<div align="center">
   
 # 👨🏻‍💻 Talles Henrique - Backend Developer
 [![Github Profile](https://img.shields.io/badge/Github-%23fff?style=flat-square&logo=Github&logoColor=181717)](https://github.com/talleshenriquethss) [![Linkedin Profile](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logoColor=grey)](https://www.linkedin.com/in/tallesthss/) ![E-mail contact](https://img.shields.io/badge/tallesthss%40gmail.com-%23fff?style=flat-square&logo=Gmail&logoColor=ea4335)
