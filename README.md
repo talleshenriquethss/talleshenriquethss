@@ -1,5 +1,3 @@
-# PT-BR [Português]
-
 <div align="center">         
 
   # Talles Henrique - Desenvolvedor Backend 👨🏻‍💻 
