@@ -1,11 +1,6 @@
 # PT-BR [Português]
 
-<details>
-  <summary>
-          <i>Olá, meu nome é <strong>Talles Henrique</strong>! Clique aqui para saber mais sobre mim </i>😉
-  </summary>
-<div align="center"> 
-        
+<div align="center">         
 # Talles Henrique - Desenvolvedor Backend 👨🏻‍💻 
 [![Github Profile](https://img.shields.io/badge/Github-%23fff?style=flat-square&logo=Github&logoColor=181717
 )](https://github.com/talleshenriquethss) [![Linkedin Profile](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logoColor=grey
@@ -30,8 +25,6 @@
 ### ⚡ Bootcamps
 
 [![Bootcamp DIO | CI&T - BackEnd Java & AWS](https://assets.dio.me/68BpwSpV4B8xfXd-1zDRCZuyetfxONA0P6-WEvx9EKk/f:webp/h:120/q:80/L3RyYWNrcy9kMmI2MDQ4Ny0wMjExLTRkOTAtYTA2NC1kOGM3YTdhMDc0MGUucG5n)](https://web.dio.me/track/91c0be8f-ee54-4332-9b66-0207a7453fd8)
-
-</details>
 
 # EN [English Version]
 
